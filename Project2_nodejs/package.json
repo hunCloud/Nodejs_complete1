@@ -1,0 +1,22 @@
+{
+  "name": "begin",
+  "version": "1.0.0",
+  "description": "Initialize again",
+  "main": "entry point (unknown)",
+  "scripts": {
+    "test": "test command (unknown)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "unknown git repo"
+  },
+  "keywords": [
+    "12"
+  ],
+  "author": "Hung",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
